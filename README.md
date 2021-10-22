@@ -3,7 +3,7 @@
 ## Overview of Project.
 
 This project is a good opportunity to work with data from Kickstarter.
-But what is Kickstarter? Well, it is a funding platform for creative projects.
+**But what is Kickstarter?** Well, it is a funding platform for creative projects.
 Every project creator sets their project's funding goal and deadline. 
 If people like the project, they can pledge money to make it happen. 
 If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
