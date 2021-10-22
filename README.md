@@ -9,7 +9,7 @@ If people like the project, they can pledge money to make it happen.
 If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
 For this exercise we will analyze the rates of success and failure in different goal group ( amount ranges) 
 we will also analyze the outcomes of the theater outcomes by launch date.
-	*You can acccess [Kickstarter](https://www.kickstarter.com/).*
+	*You can access [Kickstarter](https://www.kickstarter.com/).*
 
 
 ### Purpose
@@ -24,7 +24,7 @@ we will also analyze the outcomes of the theater outcomes by launch date.
 -The general challenges were: creating a  graphic-pivot table, and using formulas or functions in excel.
 -We had the opportunity to analyze the graphs and be able to get some interesting insights from them.
 -An important challenge is to determine if the amounts in goal and pledged colunms are dollarized, There is a column that states <currency>
-For this excercise I will asume the amounts are dollarized
+--For this excercise I will asume the amounts are dollarized
  
 
 
@@ -33,6 +33,7 @@ For this excercise I will asume the amounts are dollarized
 -The specific challenge in this activity was creating the pivot table and the graph at the same time.
 -I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
 -I was a good opportunity to see how the pivot table creates the years and quarters groups by default at the moment you drag and drop the dates to the rows field.
+--You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
 
 
 ### Analysis of Outcomes Based on Goals
