@@ -9,7 +9,7 @@ If people like the project, they can pledge money to make it happen.
 If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
 For this exercise we will analyze the rates of success and failure in different goal group ( amount ranges) 
 we will also analyze the outcomes of the theater outcomes by launch date.
-*You can acccess [Kickstarter](https://www.kickstarter.com/).
+	*You can acccess [Kickstarter](https://www.kickstarter.com/).*
 
 
 ### Purpose
