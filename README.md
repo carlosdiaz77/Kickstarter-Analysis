@@ -1,3 +1,25 @@
+# **Kickstarting with Excel**
+
+## Overview of Project.
+
+This project is a good opportunity to work with data from Kickstarter.
+**But what is Kickstarter?** Well, it is a funding platform for creative projects.
+Every project creator sets their project's funding goal and deadline. 
+If people like the project, they can pledge money to make it happen. 
+If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
+
+For this exercise we will analyze a data set called [Kickstarter challenge](ckstarter_Challenge.xlsx) and will look at how plays did in terms of percentage of success and failure in different goal group.
+We will also analyze the outcomes of the theater outcomes by launch date.
+_You can access [Kickstarter here](https://www.kickstarter.com/)._
+
+
+### Purpose
+
+- The objective of this challenge is to utilize the excel skills  that we learned in Module 1.
+- We'll also start analyzing the visualizations (Pivot Graphs) in order to be able to tell a story based on the data.
+
+
+
 ## Analysis and Challenges
 
 - I had the opportunity to make some tables and graphs and I could get some interesting insights from them.
@@ -43,4 +65,7 @@
 
 	- We could create a graph that also refers to the how long the project was open in days. This would help us determine if the factor of having the project longer helps achieving the goal.
 	- We could use a graph with the backer-count and the average donation amount to determine what events had more or less popularity  and where backers where more generous
+
+
+
 
