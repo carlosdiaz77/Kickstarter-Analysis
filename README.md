@@ -22,9 +22,9 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 ## Analysis and Challenges
 
-- We had the opportunity to analyze the graphs and be able to get some interesting insights from them.
-- An important challenge is to determine if the amounts in goal and pledged colunms are dollarized, There is a column that states <currency>
-- For this excercise I will asume the amounts are dollarized
+- I had the opportunity to make and analyze the graphs  and tables and be able to get some interesting insights from them.
+- Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in teh challenge.
+
  
 
 
