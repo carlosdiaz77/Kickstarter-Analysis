@@ -10,7 +10,7 @@ If the project succeeds in reaching its funding goal, all backers' credit cards 
 
 _You can access the website of [Kickstarter here](https://www.kickstarter.com/)._
 
-For this exercise we will analyze a data set called [Kickstarter challenge](ckstarter_Challenge.xlsx) and will look at how plays did in terms of percentage of success and failure in different goal group.
+For this exercise we will analyze a data set  in a spreadsheet called [Kickstarter challenge](ckstarter_Challenge.xlsx) and will look at how plays did in terms of percentage of success and failure in different goal group.
 We will also analyze the outcomes of the theater outcomes by launch date.
 
 
