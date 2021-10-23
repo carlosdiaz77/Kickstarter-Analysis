@@ -30,16 +30,16 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 ### Analysis of Outcomes Based on Launch Date
 
--The specific challenge in this activity was creating the pivot table and the graph at the same time.
--I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
--I was a good opportunity to see how the pivot table creates the years and quarters groups by default at the moment you drag and drop the dates to the rows field.
---You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
+- The specific challenge in this activity was creating the pivot table and the graph at the same time. I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
+- This was a good opportunity to see how the pivot table creates the years and quarters groups by default at the moment you drag and drop the dates to the rows field.
+	-You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
 
 
 ### Analysis of Outcomes Based on Goals
 
--The challenge in this activity was to use the function COUNTIFs, personally I had used only the COUNTIF but being able to determine several conditions in different columns was great.
--I thinks using the <Find the replace> option helped me to just copy the formula and just replace the criteria where it had the be different
+#### COUNTIFS
+-The challenge in this activity was to use the function COUNTIFs, personally I had not usedthis fucntion and being able to determine several conditions in different columns was great.
+-I thinks using the "Find the replace" option helped me to just copy the formula and just replace the criteria where it had the be different
 -Using the absolute position of in the formulas helps a lot to be able to copy and paste the formula and make sure that it still works well
 
 
