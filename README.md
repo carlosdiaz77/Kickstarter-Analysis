@@ -17,13 +17,13 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 
 -The objective of this challenge is to utilize the excel skills  that we learned in Module 1.
 
--We also started analyzing the visualizations ( Pivot Graphs) in order to be able to tell a story based on the data.
+-We'll also start analyzing the visualizations (Pivot Graphs) in order to be able to tell a story based on the data.
 
 
 
 ## Analysis and Challenges
 
--The general challenges were: creating a  graphic-pivot table, and using formulas or functions in excel.
+-The general challenges were: creating a graphic-pivot table, and using formulas or functions in excel.
 -We had the opportunity to analyze the graphs and be able to get some interesting insights from them.
 -An important challenge is to determine if the amounts in goal and pledged colunms are dollarized, There is a column that states <currency>
 --For this excercise I will asume the amounts are dollarized
