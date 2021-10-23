@@ -7,6 +7,7 @@ This project is a good opportunity to work with data from Kickstarter.
 Every project creator sets their project's funding goal and deadline. 
 If people like the project, they can pledge money to make it happen. 
 If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
+
 For this exercise we will analyze the rates of success and failure in different goal group.
 we will also analyze the outcomes of the theater outcomes by launch date.
 *You can access [Kickstarter](https://www.kickstarter.com/).
