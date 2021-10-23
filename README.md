@@ -22,23 +22,22 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 ## Analysis and Challenges
 
-- I had the opportunity to make and analyze tables and graphs and to be able to get some interesting insights from them.
-- Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in teh challenge.
+- I had the opportunity to make some tables and graphs andI could get some interesting insights from them.
+- Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in the challenge.
 
 
 ### Analysis of Outcomes Based on Launch Date
 
 - The specific challenge in this activity was creating the pivot table and the graph at the same time. I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
+- I could use a fuction called "YEAR" that practically gives you only the year of a given date.
 - I could use the filters in the pivot table and see how the graph responds to these filters too.
 	-You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
 
 
 ### Analysis of Outcomes Based on Goals
 
-#### COUNTIFS
--The challenge in this activity was to use the function COUNTIFs, personally I had not usedthis fucntion and being able to determine several conditions in different columns was great.
--I thinks using the "Find the replace" option helped me to just copy the formula and just replace the criteria where it had the be different
--Using the absolute position of in the formulas helps a lot to be able to copy and paste the formula and make sure that it still works well
+- The challenge in this activity was to use the function **COUNTIFs**, personally I had not used this function before and being able to determine several conditions in different columns was great.
+- **"SUM" & "AVERAGE**  were other two intersting fuctions in this activity and I was amazed how  thay simplify the calculations
 
 
 
