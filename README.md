@@ -16,6 +16,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 ### Purpose
 
 -The objective of this challenge is to utilize the excel skills  that we learned in Module 1.
+
 -We also started analyzing the visualizations ( Pivot Graphs) in order to be able to tell a story based on the data.
 
 
