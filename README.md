@@ -10,7 +10,7 @@ If the project succeeds in reaching its funding goal, all backers' credit cards 
 
 For this exercise we will analyze how plays did interms of percentage of success and failure in different goal group.
 We will also analyze the outcomes of the theater outcomes by launch date.
-_You can access [Kickstarter](https://www.kickstarter.com/)._
+_You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 
 ### Purpose
