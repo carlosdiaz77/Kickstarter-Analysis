@@ -53,19 +53,18 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 	2. We can also see there are fewer events launched in the months of Nov, Dec and Jan and that the success/fail ratio drops drastically in December
 
 - What can you conclude about the Outcomes based on Goals?
-	-We can clearly see the higher the goal the higher the probability of failure.
-	-We can see that if the goal is less than $20,000 the chances of success are higher.
+	1. We can clearly see the higher the goal the higher the probability of failure.
+	2. We can see that if the goal is less than $20,000 the chances of success are higher.
 
 - What are some limitations of this dataset?
 
-	There is no demographic data of the backers, this could help.
-
+	There is no demographic data about the backers, If we had it, it could help us get insights about how data like age, gender, marital status income, education can influece in the results and success of the events
 	
 
 - What are some other possible tables and/or graphs that we could create?
 
-	-We could create a graph that also refers to the how long the project was open. (death line date- Lauch date)This would help us determine if the factor of having the project longer helps achieving the goal.
-	-We could use the backer-count and the average donation amount to determine what events had more or less popularity  and where backers where more generous
+	- We could create a graph that also refers to the how long the project was open in days. This would help us determine if the factor of having the project longer helps achieving the goal.
+	- We could use a graph with the backer-count and the average donation amount to determine what events had more or less popularity  and where backers where more generous
 
 
 
