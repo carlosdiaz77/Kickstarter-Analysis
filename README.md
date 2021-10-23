@@ -38,7 +38,7 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 - The challenge in this activity was to use the function **COUNTIFs**, personally I had not used this function before and being able to determine several conditions in different columns was great.
 - **"SUM" & "AVERAGE**  were other two intersting fuctions in this activity and I was amazed how  thay simplify the calculations
-	- -You can see the image of [Theater Outcomes by Launch Date](Outcomes_vs_Goals.png) here.
+	- -You can see the image of [Theater Outcomes by Launch Date](Theater_Outcomes_vs_Launch.png) here.
 
 
 ### Challenges and Difficulties Encountered
@@ -49,8 +49,8 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-	-We can clearly see that the events that are launched in the months of May , Jun and Jul have a better success/fail ratio . The weather could be a factor here.
-	-We can also see there are fewer events launched in the months of Nov, Dec and Jan and that the success/fail ratio drops drastically in December
+	1. We can clearly see that the events that are launched in the months of May , Jun and Jul have a better success/fail ratio . The weather could be a factor here.
+	2. We can also see there are fewer events launched in the months of Nov, Dec and Jan and that the success/fail ratio drops drastically in December
 
 - What can you conclude about the Outcomes based on Goals?
 	-We can clearly see the higher the goal the higher the probability of failure.
