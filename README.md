@@ -38,7 +38,7 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 - The challenge in this activity was to use the function **COUNTIFs**, personally I had not used this function before and being able to determine several conditions in different columns was great.
 - **"SUM" & "AVERAGE**  were other two intersting fuctions in this activity and I was amazed how  thay simplify the calculations
-
+	- -You can see the image of [Theater Outcomes by Launch Date](Outcomes_vs_Goals.png) here.
 
 
 ### Challenges and Difficulties Encountered
