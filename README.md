@@ -22,14 +22,14 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 ## Analysis and Challenges
 
-- I had the opportunity to make and analyze the graphs  and tables and be able to get some interesting insights from them.
+- I had the opportunity to make and analyze tables and graphs and to be able to get some interesting insights from them.
 - Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in teh challenge.
 
 
 ### Analysis of Outcomes Based on Launch Date
 
 - The specific challenge in this activity was creating the pivot table and the graph at the same time. I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
-- This was a good opportunity to see how the pivot table creates the years and quarters groups by default at the moment you drag and drop the dates to the rows field.
+- I could use the filters in the pivot table and see how the graph responds to these filters too.
 	-You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
 
 
