@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# *Kickstarting with Excel*
 
 ## Overview of Project.
 
@@ -24,8 +24,6 @@ _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
 - I had the opportunity to make and analyze the graphs  and tables and be able to get some interesting insights from them.
 - Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in teh challenge.
-
- 
 
 
 ### Analysis of Outcomes Based on Launch Date
