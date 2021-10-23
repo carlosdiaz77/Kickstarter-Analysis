@@ -8,7 +8,7 @@ Every project creator sets their project's funding goal and deadline.
 If people like the project, they can pledge money to make it happen. 
 If the project succeeds in reaching its funding goal, all backers' credit cards are charged when time expires.
 
-For this exercise we will analyze a data set called  how plays did in terms of percentage of success and failure in different goal group.
+For this exercise we will analyze a data set called [Kickstarter challenge](ckstarter_Challenge.xlsx) and will look at how plays did in terms of percentage of success and failure in different goal group.
 We will also analyze the outcomes of the theater outcomes by launch date.
 _You can access [Kickstarter here](https://www.kickstarter.com/)._
 
