@@ -41,7 +41,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 
 - The challenge in this activity was to use the function **COUNTIFs**, personally I had not used this function before and being able to determine several conditions in different columns was great.
 - **"SUM" & "AVERAGE**  were other two interesting functions in this activity and I was amazed how  thay simplify the calculations
-- <img src = "recources/Theater_Outcomes_vs_Launch.png" width= "500" >
+- <img src = "resources/Theater_Outcomes_vs_Launch.png" width= "500" >
 
 	- You can see the image of [Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png) here.
 
