@@ -72,6 +72,6 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 	- <img src = "extra_resources/success_failed_cancel_except_us.png" width= "500" >
 
 	- Below we can see another graph where  we can see how many backers there are and the pledged amount.
-	- <img src = "Backers_count_vs_pledged.png" width= "500" >
+	- <img src = "extra_resources/Backers_count_vs_pledged.png" width= "500" >
 
 
