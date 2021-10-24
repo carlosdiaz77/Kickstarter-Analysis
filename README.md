@@ -32,18 +32,18 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 - The specific challenge in this activity was creating the pivot table and the graph at the same time. I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
 - I could use a function called "YEAR" that practically gives you only the year of a given date.
 - I could use the filters in the pivot table and see how the graph responds to these filters too.
-- <img src = "Outcomes_vs_Goals.png" width= "500" >
+- <img src = "resources/Outcomes_vs_Goals.png" width= "500" >
 
-	- You can see the image of [Outcomes Based on launch date](recources/Outcomes_vs_Goals.png) here.
+	- You can see the image of [Outcomes Based on launch date](resources/Outcomes_vs_Goals.png) here.
 
 
 ### Analysis of Outcomes Based on Goals
 
 - The challenge in this activity was to use the function **COUNTIFs**, personally I had not used this function before and being able to determine several conditions in different columns was great.
 - **"SUM" & "AVERAGE**  were other two interesting functions in this activity and I was amazed how  thay simplify the calculations
-- <img src = "Theater_Outcomes_vs_Launch.png" width= "500" >
+- <img src = "recources/Theater_Outcomes_vs_Launch.png" width= "500" >
 
-	- You can see the image of [Theater Outcomes by Launch Date](recources/Theater_Outcomes_vs_Launch.png) here.
+	- You can see the image of [Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png) here.
 
 
 ### Challenges and Difficulties Encountered
