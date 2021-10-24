@@ -32,6 +32,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 - The specific challenge in this activity was creating the pivot table and the graph at the same time. I used to create first the pivot table and then  create the graph but i had the opportunity to make both at the same time.
 - I could use a function called "YEAR" that practically gives you only the year of a given date.
 - I could use the filters in the pivot table and see how the graph responds to these filters too.
+![Image](Outcomes_vs_Goals.png)
 	-You can see the image of [Outcomes Based on launch date](Outcomes_vs_Goals.png) here.
 
 
