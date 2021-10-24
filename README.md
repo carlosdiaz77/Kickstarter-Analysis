@@ -71,7 +71,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 	- I created another pivot graph where we could see how much other countries ( Except US) have in  the success , failed and canceled fields.
 	- <img src = "extra_resources/success_failed_cancel_except_us.png" width= "500" >
 
-	- Below we can see another graph where  we can see how many backers there are and the pledged amount.
+	- Below we can see another graph where with count of backers in the pramary  axis Y and the pledged amount in the secondary Axis Y
 	- <img src = "extra_resources/Backers_count_vs_pledged.png" width= "500" >
 
 
