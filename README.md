@@ -69,7 +69,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 - What are some other possible tables and/or graphs that we could create?
 
 	- I created another table where we could see how much other countries ( Except US) have in  the success , failed and canceled fields.
-	- <img src = "extra_resources/success_failed_cancel_except_us" width= "500" >
+	- <img src = "extra_resources/success_failed_cancel_except_us.png" width= "500" >
 
 	- We could create a graph that also refers to the how long the project was open in days. This would help us determine if the factor of having the project longer helps achieving the goal.
 	- We could use a graph with the backer-count and the average donation amount to determine what events had more or less popularity  and where backers where more generous
