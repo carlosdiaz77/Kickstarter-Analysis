@@ -43,7 +43,7 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 - **"SUM" & "AVERAGE**  were other two interesting functions in this activity and I was amazed how  thay simplify the calculations
 - <img src = "resources/Theater_Outcomes_vs_Launch.png" width= "500" >
 
-	- You can see the image of [Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png) here.
+	- You can see the image of [Theater Outcomes by Launch Date1](resources/Theater_Outcomes_vs_Launch.png) here.
 
 
 ### Challenges and Difficulties Encountered
