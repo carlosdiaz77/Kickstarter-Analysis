@@ -68,6 +68,21 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 
 - What are some other possible tables and/or graphs that we could create?
 
+	- I used the "maps" option , and the funtions vlookup and match to creare a graph that lets you choose from a drop-down menue the options:
+
+		-- Sum of goal
+		--Sum of pledged
+		--Percentage Funded
+		--canceled %
+		--failed %
+		--successful %
+
+	- <img src = "map_successful.png" width= "500" >
+
+	- <img src = "map_failed.png" width= "500" >
+
+	
+
 	- I created another pivot graph where we could see how much other countries ( Except US) have in  the success , failed and canceled fields.
 	- <img src = "extra_resources/success_failed_cancel_except_us.png" width= "500" >
 
