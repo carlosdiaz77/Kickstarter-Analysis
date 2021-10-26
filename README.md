@@ -2,7 +2,8 @@
 
 ## Overview of Project.
 
-This project is a good opportunity to work with data from Kickstarter.
+This is my firt project in the Data Analysis and visualization boot camp of the University of Texas at Austin.
+It is a good opportunity to work with real data from Kickstarter.
 **But what is Kickstarter?** Well, it is a funding platform for creative projects.
 Every project creator sets their project's funding goal and deadline. 
 If people like the project, they can pledge money to make it happen. 
