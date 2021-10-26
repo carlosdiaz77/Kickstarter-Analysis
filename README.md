@@ -77,9 +77,9 @@ We will also analyze the outcomes of the theater outcomes by launch date.
 		--failed %
 		--successful %
 
-	- <img src = "map_successful.png" width= "500" >
+	- <img src = "extra_resources/map_successful.png" width= "500" >
 
-	- <img src = "map_failed.png" width= "500" >
+	- <img src = "extra_resources/map_failed.png" width= "500" >
 
 	
 
